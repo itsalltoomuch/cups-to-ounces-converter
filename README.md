@@ -11,7 +11,7 @@ So, [how many ounces in a cup?](https://www.calculatorful.com/cups-to-ounces)?
 
 We can use this formular to convert cups to ounces
 ```
-ounces= cups ×8.345404× ingredient density 
+ounces= cups × 8.345404 × ingredient density 
 ```
 ## Steps to create the website
 1. Create a html file with the content
